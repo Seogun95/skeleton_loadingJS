@@ -8,7 +8,7 @@
 
 # DEMO
 
-[Skeleton_animationJS 데모 페이지 - codepen](https://skeleton-animation-js.netlify.app/)
+[Skeleton_animationJS 데모 페이지](https://skeleton-animation-js.netlify.app/)
 
 
 https://user-images.githubusercontent.com/76584961/190529005-8f64c6f4-b64c-499a-a9b7-4429eb3e0b1d.mp4
