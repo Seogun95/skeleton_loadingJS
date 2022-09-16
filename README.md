@@ -10,5 +10,6 @@
 
 [Skeleton_animationJS 데모 페이지 - codepen](https://skeleton-animation-js.netlify.app/)
 
-https://user-images.githubusercontent.com/76584961/190528935-6f6424e0-6ca9-4713-b352-4e8b172bdca0.mp4
+https://user-images.githubusercontent.com/76584961/190529005-8f64c6f4-b64c-499a-a9b7-4429eb3e0b1d.mp4
+
 
